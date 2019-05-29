@@ -51,3 +51,4 @@ From the above experiements, I found that:
 ### 8b)With learning rate too small will leads to overfitting;
 ### 8c)The big number of the hidden_dim will not lead to perfect result. However, it will give me a overfitting result.
 ### 8d)I think if I try with more layers or more complicated NN like CNN, the result will be much better.
+
