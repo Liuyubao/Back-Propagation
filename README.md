@@ -4,7 +4,7 @@ Implemented the back propagation algorithm
 
 
 ## 2.Performance changes with number of iterations increases(All other params with default values)
-accuracy/Number of iterations: 
+accuracy/Number of iterations:
 0.7567663396761612 / 1
 0.7567663396761612 / 2
 0.7567663396761612 / 4
@@ -31,7 +31,7 @@ accuracy/learning rate:
 0.8144427372650986 / 5
 
 ## 5.Performance changes with hidden layer size (All other params with default values)
-accuracy/hidden_dim: 
+accuracy/hidden_dim:
 0.849781349722255 / 1
 0.7567663396761612 / 2
 0.8485994563290391 / 3
