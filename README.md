@@ -116,10 +116,10 @@ Here I chose to add a bias=1 after the sigmoid of the weights in current layer
 
 From the above experiements, I found that:
 
-### 8a)Basically the accuracy will increase with the number of iterations increase. It should be under the condition that not overfitting;
+8a)Basically the accuracy will increase with the number of iterations increase. It should be under the condition that not overfitting;
 
-### 8b)With learning rate too small will leads to overfitting;
+8b)With learning rate too small will leads to overfitting;
 
-### 8c)The big number of the hidden_dim will not lead to perfect result. However, it will give me a overfitting result.
+8c)The big number of the hidden_dim will not lead to perfect result. However, it will give me a overfitting result.
 
-### 8d)I think if I try with more layers or more complicated NN like CNN, the result will be much better.
+8d)I think if I try with more layers or more complicated NN like CNN, the result will be much better.
